@@ -1,0 +1,12 @@
+{
+  "name": "ch3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-lists": "^4.9.0"
+  }
+}
